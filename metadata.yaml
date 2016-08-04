@@ -1,0 +1,34 @@
+_repo: George-Sand--Some-Aspects-of-Her-Life-and-Writings_138
+_version: 0.0.1
+alternative_title: 'George Sand: dix conférences sur sa vie et son oeuvre. English'
+contributor:
+  translator:
+    agent_name: Hallard, Alys
+    alias: Ward, Alice Hall
+    gutenberg_agent_id: '87'
+    url: http://www.gutenberg.org/2009/agents/87
+creator:
+  author:
+    agent_name: Doumic, René
+    alias: Doumic, Rene
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '86'
+    url: http://www.gutenberg.org/2009/agents/86
+    wikipedia: http://en.wikipedia.org/wiki/René_Doumic
+description: 'Translation of: George Sand, dix conferences sur sa vie et son oeuvre'
+gutenberg_issued: '2006-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Women novelists, French -- 19th century -- Biography'
+- !lcsh 'Sand, George, 1804-1876'
+- GITenberg
+title: 'George Sand: Some Aspects of Her Life and Writings'
+url: http://www.gutenberg.org/ebooks/138
